@@ -1,0 +1,164 @@
+{
+    "name": "Ricky Aditya Bagaskara",
+    "title": "Frontend Developer",
+    "description": "A passionate developer with have a high interest for web app development, both frontend and backend aspect. Specializing in Javascript related framework and development tools.",
+    "links": {
+        "twitter": "https://twitter.com/rickyaditb",
+        "github": "https://github.com/rickyaditb/",
+        "linkedin": "https://www.linkedin.com/in/rickyaditb/",
+        "behance": "https://www.behance.net/rickyaditb",
+        "email": "mailto:rickyaditb@gmail.com"
+    },
+    "resume": "#",
+    "contact": "mailto:rickyaditb@gmail.com",
+    "skills": {
+        "language": [
+            "Typescript",
+            "Javascript",
+            "PHP"
+        ],
+        "framework": [
+            "React",
+            "Next.js",
+            "Svelte"
+        ],
+        "database": [
+            "MongoDB",
+            "SQL"
+        ],
+        "devops": [
+            "Git",
+            "Tailwind"
+        ]
+    },
+    "education": {
+        "titleEn": "Bachelor of Computer Science",
+        "titleId": "Sarjana Ilmu Komputer",
+        "university": "Pakuan University",
+        "descriptionEn": "Chicken Egg Price Prediction In West Java Using Recurrent Neural Network, Long Short-Term Memory and Gated Recurrent Unit",
+        "descriptionId": "Thesis Topic: Analsis Sentimen Masyarakat Terhadap ChatGPT Menggunakan Metode Lexicon Based",
+        "period": "2019 - Present",
+        "gpa": 3.85
+    },
+    "certification": [
+        {
+            "title": "HTML5 Application Development Fundamentals",
+            "publisher": "Microsoft",
+            "credential": "FQbD - XLcG",
+            "verification": "https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx"
+        },
+        {
+            "title": "DevOps Fundamentals",
+            "publisher": "Dicoding",
+            "credential": "ASdB - CwSA",
+            "verification": "https://dicoding.com"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Beritaqu",
+            "thumbnail": "./assets/img/project-1.png",
+            "demoLink": "https://beritaqu.vercel.app",
+            "sourceLink": "https://github.com/rickyaditb/beritaqu",
+            "description": "Beritaqu is a news aggregator website powered by artificial intelligence to summarize its content from various sources. This enables the users to quickly and efficiently stay informed on the latest happenings across a wide range of topics, without having to spend hours reading through lengthy articles",
+            "stacks": [
+                {
+                    "name": "Typescript",
+                    "iconUrl": "Typescript",
+                    "iconColor": "#3b82f6",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Tailwind",
+                    "iconUrl": "Tailwindcss",
+                    "iconColor": "#17baba",
+                    "textColor": "white"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "iconUrl": "PostgreSQL",
+                    "iconColor": "#336791",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Next.js",
+                    "iconUrl": "nextdotjs",
+                    "iconColor": "white",
+                    "textColor": "black"
+                }
+            ]
+        },
+        {
+            "name": "Pawonqu",
+            "thumbnail": "./assets/img/project-2.png",
+            "demoLink": "https://frontend-expert-submission.vercel.app/",
+            "sourceLink": "https://github.com/rickyaditb/frontend-expert-submission",
+            "description": "Pawonqu is a restaurant listing website where the user can get a comprehensive list of restaurants, their menus, descriptions, locations, and read or write reviews, (for now it’s only show dummy data)",
+            "stacks": [
+                {
+                    "name": "Javascript",
+                    "iconUrl": "Javascript",
+                    "iconColor": "#ecda1d",
+                    "textColor": "black"
+                }, 
+                {
+                    "name": "CSS",
+                    "iconUrl": "css3",
+                    "iconColor": "#3b82f6",
+                    "textColor": "white"
+                },
+                {
+                    "name": "PWA",
+                    "iconUrl": "pwa",
+                    "iconColor": "#7682dd",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Webpack",
+                    "iconUrl": "Webpack",
+                    "iconColor": "#3b82f6",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Rest API",
+                    "iconUrl": "cloudways",
+                    "iconColor": "#f46055",
+                    "textColor": "white"
+                }
+            ]
+        },
+        {
+            "name": "Pawon-Tastic",
+            "thumbnail": "./assets/img/project-3.png",
+            "demoLink": "https://pawon-tastic.vercel.app/",
+            "sourceLink": "https://vercel.com/rickyaditb/pawon-tastic",
+            "description": "Pawon-Tastic is a recipe website with a collection of dish from a various countries, user can filter through a large range of categories and follow the recipe step by step in text format or video format.",
+            "stacks": [
+                {
+                    "name": "Javascript",
+                    "iconUrl": "Javascript",
+                    "iconColor": "#ecda1d",
+                    "textColor": "black"
+                }, 
+                {
+                    "name": "Webpack",
+                    "iconUrl": "Webpack",
+                    "iconColor": "#3b82f6",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Tailwind",
+                    "iconUrl": "Tailwindcss",
+                    "iconColor": "#17baba",
+                    "textColor": "white"
+                },
+                {
+                    "name": "Rest API",
+                    "iconUrl": "cloudways",
+                    "iconColor": "#f46055",
+                    "textColor": "white"
+                }
+            ]
+        }
+    ]
+}

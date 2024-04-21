@@ -1,0 +1,15 @@
+{
+    "animation": {
+        "options": {
+            "unobserveOnEnter": true,
+            "threshold": 0.7
+        },
+        "in-fly": {
+            "y": -20,
+            "duration": 2000
+        }
+    },
+    "certifications": {
+        "startItems": 1
+    }
+}
